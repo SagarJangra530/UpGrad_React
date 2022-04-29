@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Form{
+  font-size: x-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: rgb(176, 104, 104);
+}
